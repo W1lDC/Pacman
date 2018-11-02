@@ -2,8 +2,8 @@
 
 
 Level 2 
-![](name-of-giphy.gif)
+![](gif2.gif)
 
 
 Levels
-![](name-of-giphy.gif)
+![](gifothers.gif)
