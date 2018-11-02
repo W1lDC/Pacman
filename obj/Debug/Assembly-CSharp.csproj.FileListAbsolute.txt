@@ -1,0 +1,79 @@
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.xml
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEditor.xml
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\obj\Debug\Assembly-CSharp.dll
+C:\Users\jbarb\Documents\Unity Projects\Pacman-test\obj\Debug\Assembly-CSharp.pdb
+C:\Users\zW1\Desktop\Pacman-test\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\zW1\Desktop\Pacman-test\obj\Debug\Assembly-CSharp.dll
+C:\Users\zW1\Desktop\Pacman-test\obj\Debug\Assembly-CSharp.pdb
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEditor.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEditor.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\zW1\Desktop\Pacman-test\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEditor.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEditor.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\obj\Debug\Assembly-CSharp.dll
+C:\Users\zW1\Desktop\Pacman_Classic_delivery\obj\Debug\Assembly-CSharp.pdb
