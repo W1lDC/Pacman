@@ -1,9 +1,5 @@
 # Pacman
 
 
-Level 2 
-![](gif2.gif)
 
-
-Levels
-![](gifothers.gif)
+![](gif2.gif) ![](gifothers.gif)
