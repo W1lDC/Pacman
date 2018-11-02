@@ -2,8 +2,8 @@
 
 
 Level 2 
-![Alt Text](https://imgur.com/NmTguvb)
+![](name-of-giphy.gif)
 
 
 Levels
-![Alt Text](https://imgur.com/a/yEAthoP)
+![](name-of-giphy.gif)
